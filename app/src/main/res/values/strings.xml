@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">EmergenceApp</string>
+
+    <string name="maelezo">By definition, Encryption is the process of transforming plain text into cipher text so that can not be read by any one rather than sender or receiver as intended. Due to great revolution of technology, encryption flaws increased.
+One of the flaws is this, encrypt key can be stolen since it transferred over long path, hence when it paths it different communication pipeline can be decrypted by powerful computers. In algorithm of cryptography, encryption key is shared by both sender and receiver. There fore it can be easily to be stolen.
+
+
+</string>
+
+
+
+    <string name="asthma">
+        Asthma is a condition which a person airways become inflammed,narrow and swell
+	  and produce extra mucus which makes it difficult to breath
+     Asthma can be minor or it can interfere with daily activities .In some cases,
+	  it may lead to a life threatening attack\n
+         SYMPTOMS\n
+        Shortness of breath \n
+
+        Chest tightness or pain \n
+
+        Wheezing when exhaling , mostly in children\n
+        Trouble sleeping caused by shortness of breath,coughing,or wheezing \n
+        Frequent cough especially at night\n
+
+        TREATMENT\n
+        Asthma can usually be managed with rescue inhalers to treat symptoms and controller inhalers that
+	  	prevent symptoms.
+</string>
+
+
+    <string name="stroke">
+A stroke occurs when the blood supply to part of your brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes.
+A stroke is a medical emergency, and prompt treatment is crucial. Early action can reduce brain damage and other complications.
+
+
+
+
+        </string>
+
+
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".HomeActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="IHA \n IMMEDIATE HELP APP"
+        android:textColor="#FFF"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:background="#164BE8"
+        />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Immediate help Application allows you to report all emergency cases to people close to you as fast as possible!
+Click next to proceed using this application."
+                android:layout_marginTop="5dp"
+                android:textSize="20sp"
+                android:paddingStart="10dp"
+                android:typeface="sans"
+                android:textStyle="normal"
+                android:ellipsize="start"
+                android:lineSpacingMultiplier="1.4"
+                android:fontFamily="sans-serif-condensed"
+                />
+
+
+        <Button
+            android:id="@+id/homeBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="next"
+            />
+
+
+
+</LinearLayout>
